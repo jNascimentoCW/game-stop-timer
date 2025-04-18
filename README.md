@@ -29,11 +29,12 @@ This project was developed as part of the course [React - The Complete Guide 202
 
 To run the project locally:
 
-bash
-`git clone https://github.com/jNascimentoCW/game-stop-timer.git
+```bash
+git clone https://github.com/jNascimentoCW/game-stop-timer.git
 cd game-stop-timer
 npm install
-npm run dev`
+npm run dev
+```
 
 📄 License
 This project is for educational purposes.
